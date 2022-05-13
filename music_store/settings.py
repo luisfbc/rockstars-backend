@@ -43,6 +43,10 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
     'music_store.users',
+    'music_store.albums',
+    'music_store.artists',
+    'music_store.genre',
+    'music_store.songs',
     'drf_yasg',
 ]
 
